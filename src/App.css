@@ -1,38 +1,46 @@
-.App {
-  text-align: center;
+body{
+  background-color: hsl(0, 100%, 99%);
+  /* background-color: black;
+  color: white; */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.font{
+  font-family: Brush Script MT;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.font-1 {
+font-family: 'Poppins', sans-serif;
+font-weight: bold;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#font-1-color{
+  color: #732FF9;
 }
 
-.App-link {
-  color: #61dafb;
+.fontColor{
+  color: #732FF9;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.normalFont {
+  font-family: 'Poppins', sans-serif;
+}
+
+#bgColor{
+  background-color: #732FF9;
+}
+
+#home{
+  margin-top: 200px;
+}
+
+#About{
+  margin-top: 300px;
+}
+
+.Contact{
+  margin-top: 200px;
+}
+
+.Projects{
+  margin-top: 280px;
 }

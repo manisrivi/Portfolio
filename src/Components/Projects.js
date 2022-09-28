@@ -16,7 +16,7 @@ export default function Projects() {
           <h6 className="font-1 text-secondary mt-3">
             Website adaptable to all devices, with UI components and
             Interactions. End to end mail integrations with tracking status and
-            more features implemented this site.
+            more features implemented this site
           </h6>
           <a href='https://master.d39lbkrz4ack24.amplifyapp.com/'  target='_blank' className="btn font-1 text-white fw-bold mt-3" id="bgColor">
             Demo <i class="uil uil-angle-double-right"></i>

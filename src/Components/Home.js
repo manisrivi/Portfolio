@@ -17,7 +17,7 @@ export default function Home() {
                 Good experience in web design and development knowledge, <br />{" "}
                 producing quality work
               </h6>
-              <a href='https://drive.google.com/file/d/1XC7jEpmOEsMKoI3m60-CJsilQKvCsR36/view?usp=sharing' target='_blank' className="btn mt-4 text-white fw-bold" id="bgColor">
+              <a href='https://drive.google.com/file/d/1ZfaL8Q1Np4AEBbeknlmgECVtMnyfny6M/view?usp=sharing' target='_blank' className="btn mt-4 text-white fw-bold" id="bgColor">
                 Resume
                 <i class="uil uil-angle-double-right"></i>
               </a>
